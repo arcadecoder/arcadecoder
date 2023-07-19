@@ -5,9 +5,7 @@
 - 👯 I’m looking to collaborate on ...
 -->
 
-- 🔭 I’m currently working on a database for Black British resources
-- 🌱 I’m currently learning Javascript & AWS
-- 🤔 I’m looking for help with React and Django
+- 🌱 I’m currently learning about DevOps
 - 💬 Ask me about my self taught journey.
 - ⚡ Fun fact: My name is actually Arcade.
 
